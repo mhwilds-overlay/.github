@@ -4,7 +4,6 @@
 MHWilds Overlay is a **quality-of-life HUD mod** for Monster Hunter Wilds that surfaces **real-time combat stats** and mission context without clutter.  
 It adds a **customizable overlay** with a **DPS/damage meter**, **buff & debuff timers**, **quest objective tracking**, and **party contribution insights** for clearer decision-making.  
 Designed as a **lightweight, external tool** (no file replacement), it focuses on **performance-friendly rendering**, **low-latency data capture**, and **clean UI**—ideal for both casual hunts and speedrunning practice.  
-SEO focus: monster hunter wilds overlay, mhwilds hud mod, mhwilds damage meter, mhwilds quest tracker, mhwilds performance overlay.
 
 ## 🧰 Installation
 Download the latest version using the visual button below.  
